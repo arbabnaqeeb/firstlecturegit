@@ -1,4 +1,4 @@
 # firstlecturegit
 Learning and practicing git commands 
 <br>
-Author-Arbab Naqeeb
+Author-Arbab Naqeeb [Gen AI]
